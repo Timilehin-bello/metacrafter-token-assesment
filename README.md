@@ -29,7 +29,8 @@ This is a simple smart contract written in Solidity that represents a token call
 ## Usage
 
 1. Deploy the `MyToken` contract on a compatible blockchain platform, such as Ethereum.
-2. Interact with the contract by calling its functions:
+2. You can make use of Remix IDE to interact with the smart contract in your browser.
+3. Interact with the contract by calling its functions:
    - `mint`: Call this function to create new tokens and assign them to an address.
    - `burn`: Call this function to destroy tokens and reduce the total supply.
 
